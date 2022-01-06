@@ -1,12 +1,22 @@
-### Yo!
-
-- 🔭 Atualmente trabalhando com desenvolvimento web (full stack)
-- 🌱 Dedicando as horas vagas para aprender Flutter, React e Node.js
-
+<table border="0">
+<tr>
+<td>
 <div align="center">
-  <a href="https://github.com/bronogueira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bronogueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bronogueira&layout=compact&langs_count=7&theme=dracula"/>
+  
+  ## Yo! 🤙 Prazer, sou Bruno Nogueira
 </div>
+<div>
+  
+  - 🔭 Atualmente trabalhando com desenvolvimento web (full stack)
+  - 🌱 Dedicando as horas vagas para aprender Flutter, React e Node.js
+  - 💕 For now: Next.js + TypeScript + TailwindCSS / Flutter + Firebase
+  
+</div>
+</td>
+<td>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bronogueira&langs_count=7&theme=tokyonight&layout=compact&hide_border=true"/>
+</td>
+</tr>
+</table>
 
-  ![Snake animation](https://github.com/bronogueira/bronogueira/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/bronogueira/bronogueira/blob/output/github-contribution-grid-snake.svg)

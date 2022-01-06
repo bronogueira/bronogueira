@@ -8,8 +8,8 @@
 <div>
   
   - 🔭 Atualmente trabalhando com desenvolvimento web (full stack)
-  - 🌱 Dedicando as horas vagas para aprender Flutter, React e Node.js
-  - 💕 For now: Next.js + TypeScript + TailwindCSS / Flutter + Firebase
+  - 🌱 Dedicando as horas vagas em aprender Flutter, React e Node.js
+  - 💕 Next.js + TypeScript + Tailwind CSS / Flutter + Firebase
   
 </div>
 </td>

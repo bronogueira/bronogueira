@@ -3,7 +3,7 @@
 <td>
 <div align="center">
   
-  ## Yo! 🤙 Prazer, sou Bruno Nogueira
+  ## Olá 🤙 prazer, sou Bruno Nogueira
 </div>
 <div>
   
